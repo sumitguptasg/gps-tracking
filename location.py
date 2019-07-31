@@ -1,7 +1,4 @@
-'''
-GPS Interfacing with Raspberry Pi using Pyhton
-http://www.electronicwings.com
-'''
+
 import serial               #import serial pacakge
 from time import sleep
 import webbrowser           #import package for opening link in browser
